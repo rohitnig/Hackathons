@@ -1,0 +1,26 @@
+**************************************
+************ CLOTH TAGGER ************
+--------------------------------------
+
+Version 0.01
+Author: Rohit Nigam
+
+**************************************
+
+Packages required:
+	-	Pandas
+	-	sklearn
+	-	category_encoders
+	-	pickle
+	-	warnings
+
+Syntax: 
+	C:\>python predictClothTag.py
+
+Files:
+
+	Python Package: cloth_tagger.py
+	Python Exe: predictClothTag.py
+	Configuration: config.ini
+
+Use the file config.ini to change the training data, prediction data and the predicted output file's name.
